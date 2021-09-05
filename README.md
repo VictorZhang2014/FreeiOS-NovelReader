@@ -43,7 +43,7 @@
 </p>
 
 
-### Dependencies
+### Pod Dependencies
 ```
 pod 'SnapKit'
 pod 'SDWebImage'
