@@ -17,7 +17,7 @@
 - 9.Supports home banner configuration on server api
 - 10.Supports `Dark` and `Light` mode when reading
 - 11.Supports Google Video Ads. Users get coins when watched completed a video advertisement.
-- 12.Supports buried-points depending on your business model
+- 12.Supports buried-points depending on your business model, if you don't need it, please uninstall the pod `UMCCommon`
 
 ### App Screenshots  
  
@@ -43,7 +43,7 @@
 </p>
 
 
-### Pod Libs Supported
+### Dependencies
 ```
 pod 'SnapKit'
 pod 'SDWebImage'
@@ -58,7 +58,7 @@ pod 'SAMKeychain'
 pod 'SwiftyStoreKit'
 pod 'lottie-ios'
 pod 'YPImagePicker' # Instagram-like image picker & filters for iOS
-pod 'UMCCommon' # Data Statistic
+pod 'UMCCommon' # Data Statistic, uninstall it if you don't need it.
 pod 'Google-Mobile-Ads-SDK'
 ```
 
