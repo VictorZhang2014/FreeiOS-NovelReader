@@ -1,0 +1,6 @@
+framework module Pods_NotOnlyNovel {
+  umbrella header "Pods-NotOnlyNovel-umbrella.h"
+
+  export *
+  module * { export * }
+}

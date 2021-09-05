@@ -1,0 +1,450 @@
+{
+    "banner" : [
+        { 
+            "book_id" : 510000218, 
+            "name" : "My Most Precious Wife" ,
+            "action_type" : 0,
+            "banner_image_url" : "https://uswstorage.oss-us-west-1.aliyuncs.com/Novel/bannerPic/Love-without-Marriage.jpg",
+            "introduction" : "",
+            "link" : ""
+        },
+        { 
+            "book_id" : 510000196, 
+            "name" : "The Contract Lover" ,
+            "action_type" : 0,
+            "banner_image_url" : "https://uswstorage.oss-us-west-1.aliyuncs.com/Novel/bannerPic/%27Deep%27-Love.jpg",
+            "introduction" : "",
+            "link" : ""
+        },
+        { 
+            "book_id" : 510000206, 
+            "name" : "CEO's Substitute Bride" ,
+            "action_type" : 0,
+            "banner_image_url" : "https://uswstorage.oss-us-west-1.aliyuncs.com/Novel/bannerPic/Marry-to-Ex-huasband.jpg",
+            "introduction" : "",
+            "link" : ""
+        }
+    ],
+    "top" : [
+        {
+            "category_name" : "Weekly Rank",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201120/908a8dd20020373a5a78e4e6a30a6014.jpg",
+            "book_name" : "The CEO's Ugly Bride",
+            "author_name" : "",
+            "view_count" : 230750,
+            "tags" : "",
+            "book_id" : 510000211
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201222/456858cc358d51d08f6a944800f028de.png",
+            "book_name" : "My Dear Counselor",
+            "author_name" : "",
+            "view_count" : 171670,
+            "tags" : "",
+            "book_id" : 510000192
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/e632edf46170422fb095ee16fd52b5a2.jpg",
+            "book_name" : "Gifted Son Sells his Mom to Dad",
+            "author_name" : "",
+            "view_count" : 170400,
+            "tags" : "",
+            "book_id" : 510000205
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/e4d8c13782fdb52bd2723bfc1b13a509.png",
+            "book_name" : "When We Loved Each Other",
+            "author_name" : "",
+            "view_count" : 152300,
+            "tags" : "",
+            "book_id" : 510000141
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201113/31c132505da5923a3cffd066fa86361d.jpg",
+            "book_name" : "Love Through Time and Space",
+            "author_name" : "",
+            "view_count" : 148760,
+            "tags" : "",
+            "book_id" : 510000210
+        }
+    ],
+    "best" : [
+        {
+            "category_name" : "Best Lucky",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201021/70899e03923802120a1a2809ff8b6ffe.jpg",
+            "book_name" : "Sweet Infatuation: Love in the Deep",
+            "author_name" : "Yajoi",
+            "view_count" : 131170,
+            "tags" : "Sweet",
+            "book_id" : 510000187
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/e9fd97528b66a67ad8c468e77cc26d2b.jpg",
+            "book_name" : "Me With You",
+            "author_name" : "Armanii",
+            "view_count" : 121450,
+            "tags" : "TrueLove",
+            "book_id" : 510000193
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/57cd400cce62397c87bb0009d594836c.png",
+            "book_name" : "The Annoying Husband of the Female CEO",
+            "author_name" : "Missing man",
+            "view_count" : 119650,
+            "tags" : "Boss,CEO",
+            "book_id" : 510000140
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20200828/3f73d12860503b7ac295774a25ba6127.png",
+            "book_name" : "I Was Born With Silver Spoons",
+            "author_name" : "Hamlet",
+            "view_count" : 119650,
+            "tags" : "Billionaire",
+            "book_id" : 510000217
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/90711437e6f957445f798ae0fb2c7665.jpg",
+            "book_name" : "Hidden Husband Was A Superstar",
+            "author_name" : "Moab Zane",
+            "view_count" : 112820,
+            "tags" : "Tortured love",
+            "book_id" : 510000221
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/b5da600593a51db2d10d8b9418b5953c.jpg",
+            "book_name" : "CEO of Wife-Lover",
+            "author_name" : "Lavender",
+            "view_count" : 112820,
+            "tags" : "Marriage",
+            "book_id" : 510000214
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201021/2086781c2ac9a2be1474e8b2a6118e11.jpg",
+            "book_name" : "We're Getting Married",
+            "author_name" : "Dou Doubai",
+            "view_count" : 111310,
+            "tags" : "Marriage",
+            "book_id" : 510000199
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/81b553b2af3289f0721e2414bedc126f.png",
+            "book_name" : "My Sweet",
+            "author_name" : "Mu Ge",
+            "view_count" : 111310,
+            "tags" : "TrueLove",
+            "book_id" : 510000207
+        },
+        {
+            "category_name" : "",
+            "book_cover" : "https://p.thoroscope.com/uploads/book/20201011/497bd360937db2fb4ff7da1af9fd04b0.png",
+            "book_name" : "Steal My Heart",
+            "author_name" : "Kiwi",
+            "view_count" : 105890,
+            "tags" : "Revenge",
+            "book_id" : 510000209
+        }
+    ],
+    "category" : [
+        {
+            "category_name" : "CEO's",
+            "books" : [
+                {
+                    "category_name" : "CEO",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/73785905f9c6667452fa29bff66fbed2.jpg",
+                    "book_name" : "Can't Let Go",
+                    "author_name" : "Seven",
+                    "view_count" : 105280,
+                    "tags" : "Boss",
+                    "book_id" : 510000204
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/eccbaefb41266f8130c495325ae49842.png",
+                    "book_name" : "My Beloved Wife and Baby",
+                    "author_name" : "Nino",
+                    "view_count" : 102050,
+                    "tags" : "Romance",
+                    "book_id" : 510000227
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/79ff6468f86704275fda803fa54586df.jpg",
+                    "book_name" : "The Seventh Bride Of The CEO",
+                    "author_name" : "Sarah",
+                    "view_count" : 95350,
+                    "tags" : "CEO",
+                    "book_id" : 510000198
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201222/d881010472cf7fcec11f12fa9357b767.png",
+                    "book_name" : "Cold-Blooded Lover",
+                    "author_name" : "Yi Suixiangyao",
+                    "view_count" : 73140,
+                    "tags" : "Boss/CEO",
+                    "book_id" : 510000135
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/546765a3d24d6b4904797675ffcd71cd.jpg",
+                    "book_name" : "The Temptation of Surrogate Wife",
+                    "author_name" : "Dance Astringency",
+                    "view_count" : 89160,
+                    "tags" : "Suspense",
+                    "book_id" : 510000197
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/df97eb9ffe840ffca764f4507b5b3c06.png",
+                    "book_name" : "My Endless Love",
+                    "author_name" : "Dickey",
+                    "view_count" : 88690,
+                    "tags" : "Boss/CEO",
+                    "book_id" : 510000212
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/5a213fac2a33b29c07cf02d1f8ecab1d.jpg",
+                    "book_name" : "The Seduction of the CEO",
+                    "author_name" : "Fiske",
+                    "view_count" : 58520,
+                    "tags" : "Boss/CEO",
+                    "book_id" : 510000208
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/2d3398d88264999956e4de025aeda837.png",
+                    "book_name" : "Sweet Hidden Marriage",
+                    "author_name" : "Senlis",
+                    "view_count" : 52940,
+                    "tags" : "Boss/CEO",
+                    "book_id" : 510000201
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/c9bfa79a326624be0a78d3a009caac91.jpg",
+                    "book_name" : "Hopeless Love",
+                    "author_name" : "Trver La",
+                    "view_count" : 27540,
+                    "tags" : "Boss/CEO",
+                    "book_id" : 510000228
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200928/2c93e31136f2df3fe9b925d7ca8de89e.png",
+                    "book_name" : "Sweet Love With CEO",
+                    "author_name" : "Faye",
+                    "view_count" : 27560,
+                    "tags" : "Contractual",
+                    "book_id" : 510000147
+                }
+            ]
+        },
+        {
+            "category_name" : "Marriage",
+            "books" : [
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200708/129af19ad0ab93a12a0e96dd3c1f0f6c.jpg",
+                    "book_name" : "Refunds  Dedicated",
+                    "author_name" : "The Missing man",
+                    "view_count" : 90740,
+                    "tags" : "Rebirth",
+                    "book_id" : 510000220
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201222/47cbc9e4f585b851c84232ba9db20c42.png",
+                    "book_name" : "The Lord Mayor is in Love With Me",
+                    "author_name" : "Jasmine Tea",
+                    "view_count" : 88510,
+                    "tags" : "TrueLove",
+                    "book_id" : 510000219
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201119/1554acff19955cabb2e93e9e31dd6f83.png",
+                    "book_name" : "Honey Don't Go",
+                    "author_name" : "Melank",
+                    "view_count" : 86810,
+                    "tags" : "Marriage",
+                    "book_id" : 510000188
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/f8cbe406d7eb99ffcf7fe115c3ba88df.jpg",
+                    "book_name" : "My Joint Tenancy Wife",
+                    "author_name" : "Extra Meal",
+                    "view_count" : 73500,
+                    "tags" : "Romance",
+                    "book_id" : 510000138
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/8e2420781d8d08ce7fcb808f0f70222e.png",
+                    "book_name" : "Daddy, Don't Be Flirty",
+                    "author_name" : "Jessica",
+                    "view_count" : 72160,
+                    "tags" : "Romance",
+                    "book_id" : 510000222
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/4d4ee8cfa46c5e1a88c74712d45f2073.png",
+                    "book_name" : "Fated to Love You",
+                    "author_name" : "Rachel",
+                    "view_count" : 30180,
+                    "tags" : "Romance",
+                    "book_id" : 510000229
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/7e0e20821189bcc1a2770d3758b8da68.jpg",
+                    "book_name" : "Mr.Louis, Kiss Me Gently",
+                    "author_name" : "Mu Ge",
+                    "view_count" : 33640,
+                    "tags" : "Sweet",
+                    "book_id" : 510000191
+                }
+            ]
+        },
+        {
+            "category_name" : "Billionaire",
+            "books" : [
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200831/f3cdf2fa8254a9affc8c3088b19bb0bc.png",
+                    "book_name" : "My Husband Is Royalty",
+                    "author_name" : "Buddha",
+                    "view_count" : 66060,
+                    "tags" : "Billionaire",
+                    "book_id" : 510000216
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/651d4117ffc85bd22235d31072bb659f.jpg",
+                    "book_name" : "CEO's Cat and Mouse Game",
+                    "author_name" : "Gina",
+                    "view_count" : 65800,
+                    "tags" : "Female Protagonist",
+                    "book_id" : 510000195
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200807/2b390b9295422c370f078b5662666df0.png",
+                    "book_name" : "The Magic Farmer",
+                    "author_name" : "Duanzui",
+                    "view_count" : 51020,
+                    "tags" : "Modern",
+                    "book_id" : 510000139
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201028/760f3b2b19d4fa3d8ffc04bfa1d6b7cc.jpg",
+                    "book_name" : "It's Not Easy to Mess With the CEO",
+                    "author_name" : "Rocket Girl",
+                    "view_count" : 50970,
+                    "tags" : "Revenge",
+                    "book_id" : 510000190
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201222/c6edeb9b25190330d50611e63a504934.png",
+                    "book_name" : "Be in Love After the Flash Marriage",
+                    "author_name" : "Perfume Lily",
+                    "view_count" : 35370,
+                    "tags" : "Billionaire",
+                    "book_id" : 510000119
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201103/50fba474483e6e23d3e668a5e33c6a45.jpg",
+                    "book_name" : "Billionaire's Beautiful Mistake",
+                    "author_name" : "Alabanza",
+                    "view_count" : 30810,
+                    "tags" : "TrueLove",
+                    "book_id" : 510000164
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200930/feb938046dbd45d81a85c810a724497c.png",
+                    "book_name" : "My Legendary Husband",
+                    "author_name" : "Shadow",
+                    "view_count" : 33220,
+                    "tags" : "Billionaire",
+                    "book_id" : 510000230
+                }
+            ]
+        },
+        {
+            "category_name" : "Paranormal Love",
+            "books" : [
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200611/f58e21488b38f533151043c6e6646b40.jpg",
+                    "book_name" : "The Flipside of Him",
+                    "author_name" : "Comrade Lao Liang",
+                    "view_count" : 49580,
+                    "tags" : "Suspense",
+                    "book_id" : 510000134
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201223/d9e1e00a0a4846ce778471e03d53d8ed.jpg",
+                    "book_name" : "Honey, Don't Get Rid of Me",
+                    "author_name" : "Wu Xiaochen",
+                    "view_count" : 40100,
+                    "tags" : "Love-Triangle",
+                    "book_id" : 510000122
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201222/cec18b48b4b4825b6627fad41e0db060.png",
+                    "book_name" : "A Wild and Sexy Cutie",
+                    "author_name" : "Amy",
+                    "view_count" : 40010,
+                    "tags" : "Badboy",
+                    "book_id" : 510000203
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20200828/2e4d4127a539206822feedb27ef56840.png",
+                    "book_name" : "My Princess, Don't Provoke me",
+                    "author_name" : "Fu Yan Ruo Meng",
+                    "view_count" : 48560,
+                    "tags" : "Paranormal",
+                    "book_id" : 510000137
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/c922fc1d136dd8c39427d6da6f435188.jpg",
+                    "book_name" : "Sleeping Beauty",
+                    "author_name" : "Gabriella",
+                    "view_count" : 28500,
+                    "tags" : "Attractive",
+                    "book_id" : 510000124
+                },
+                {
+                    "category_name" : "",
+                    "book_cover" : "https://p.thoroscope.com/uploads/book/20201020/1ba541733438954cfbad4514db1cb324.png",
+                    "book_name" : "Confused Love",
+                    "author_name" : "Nala",
+                    "view_count" : 32500,
+                    "tags" : "Tortured love",
+                    "book_id" : 510000224
+                }
+            ]
+        }
+    ]
+}
